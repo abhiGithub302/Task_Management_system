@@ -77,11 +77,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhiGithub302/Event_Management_System.git
+   git clone git@github.com:abhiGithub302/Task_Management_system.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Event_Management_System
+   cd Task_Management_system.git
    ```
 3. Install dependencies:
    ```bash
